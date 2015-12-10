@@ -3,6 +3,8 @@ import random
 import time
 import sys
 
+
+'''
 log_level = 2
 
 def log(text, level=1):
@@ -59,3 +61,4 @@ def main():
             except:
                 pass
         time.sleep(15)
+'''
